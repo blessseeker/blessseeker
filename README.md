@@ -1,8 +1,8 @@
-### Welcome to My Page! I'm just an ordinary person who likes to waste time on thinking and coding!
+### Welcome to My Page! 
 
-Profesionally, i am currently a full-stack developer from Bandung, Indonesia.
+I'm just an ordinary person who likes to waste time on thinking and coding. Profesionally, i am currently a full-stack developer from Bandung, Indonesia.
 
-Here are tools & technologies i used for my projects so far :
+Here are tools & technologies i've been using for my projects so far :
 
 Language : ![](https://img.shields.io/badge/-html5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-css3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 <br> Framework : ![](https://img.shields.io/badge/-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-jquery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-codeigniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
