@@ -1,6 +1,6 @@
 ### Welcome to My Page! 
 
-I'm just an ordinary person who likes to waste time on thinking and coding. Profesionally, i am currently a full-stack developer from Bandung, Indonesia.
+I'm just an ordinary person who likes to waste time on thinking and coding. Profesionally, i am currently a full-stack developer of <a href='https://github.com/Indifa-Teknologi-Optima'>Indifa Teknologi Optima</a> from Bandung, Indonesia.
 
 Here are tools & technologies i've been using for my projects so far :
 
@@ -15,10 +15,10 @@ Language : ![](https://img.shields.io/badge/-html5-informational?style=flat&logo
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/blessseeker/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessseeker&layout=compact)](https://github.com/blessseeker/github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/blessseeker/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=blessseeker&show_icons=true&theme=onedark" />
 </a>
 <!--
