@@ -11,7 +11,7 @@ Languages : ![](https://img.shields.io/badge/-html-informational?style=flat&logo
 <br> Caching : ![](https://img.shields.io/badge/-redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 <br> Version control & CI/CD : ![](https://img.shields.io/badge/-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/-gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
- <br> Server Envs : ![](https://img.shields.io/badge/-apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+ <br> Server Envs : ![](https://img.shields.io/badge/-apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-nodejs-informational?style=flat&logo=nodejs.js&logoColor=white&color=2bbc8a)
  <br> Containerization : ![](https://img.shields.io/badge/-docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) 
 
 
