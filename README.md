@@ -1,9 +1,15 @@
 ### Welcome to My Page! 
 
+### Visit Me!
+
 <ul>
  <li><a href="https://blessseeker.github.io" target="_blank">Portfolio Page</a></li>
  <li><a href="https://linkedin.com/in/kamaludin-khoir/" target="_blank">LinkedIn Profile</a></li>
+ <li><a href="https://twitter.com/kamaludin_khoir/" target="_blank">Twitter</a></li>
+ <li><a href="https://instagram.com/kamaludinkhoir/" target="_blank">Instagram</a></li>
 </ul>
+
+### My Tech Stacks
 
 Languages : ![](https://img.shields.io/badge/-html-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-css-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/-python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 <br> Frameworks : ![](https://img.shields.io/badge/-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/-jquery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-codeigniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-hapijs-informational?style=flat&logo=hapi.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-express-informational?style=flat&logo=expressjs&logoColor=white&color=2bbc8a)
