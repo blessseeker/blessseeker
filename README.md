@@ -5,8 +5,6 @@
 <ul>
  <li><a href="https://blessseeker.github.io" target="_blank">Portfolio Page</a></li>
  <li><a href="https://linkedin.com/in/kamaludin-khoir/" target="_blank">LinkedIn Profile</a></li>
- <li><a href="https://twitter.com/kamaludin_khoir/" target="_blank">Twitter</a></li>
- <li><a href="https://instagram.com/kamaludinkhoir/" target="_blank">Instagram</a></li>
 </ul>
 
 ### My Tech Stacks
