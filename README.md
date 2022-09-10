@@ -17,7 +17,7 @@
 ### My Tech Stacks
 
 Languages : ![](https://img.shields.io/badge/-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 
-<br> Frameworks : ![](https://img.shields.io/badge/-codeigniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-hapijs-informational?style=flat&logo=hapi.js&logoColor=white&color=2bbc8a) 
+<br> Frameworks : ![](https://img.shields.io/badge/-codeigniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-jquery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-hapijs-informational?style=flat&logo=hapi.js&logoColor=white&color=2bbc8a) 
 <br> Databases : ![](https://img.shields.io/badge/-mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-mariadb-informational?style=flat&logo=mariadb&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-postgres-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
  <br> Devops : ![](https://img.shields.io/badge/-docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) 
 
