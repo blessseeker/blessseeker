@@ -25,9 +25,9 @@ Languages : ![](https://img.shields.io/badge/-php-informational?style=flat&logo=
 <a href="https://github.com/blessseeker/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessseeker&layout=compact)](https://github.com/blessseeker/github-readme-stats" />
 </a>
-<a href="https://github.com/blessseeker/">
+<!--<a href="https://github.com/blessseeker/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=blessseeker&show_icons=true&theme=onedark" />
-</a>
+</a>-->
 <!--
 **blessseeker/blessseeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
