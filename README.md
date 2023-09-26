@@ -1,6 +1,6 @@
 
  
-<img src="https://www.codewars.com/users/blessseeker/badges/large" />
+<a href="https://www.codewars.com/users/blessseeker" target="_blank"><img src="https://www.codewars.com/users/blessseeker/badges/large" /></a>
 
 ### Visit Me!
 
