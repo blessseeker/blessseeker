@@ -1,4 +1,6 @@
-### Welcome to My Page! 
+
+ 
+<img src="https://www.codewars.com/users/blessseeker/badges/large" />
 
 ### Visit Me!
 
@@ -20,26 +22,3 @@ Languages : ![](https://img.shields.io/badge/-php-informational?style=flat&logo=
 <br> Frameworks : ![](https://img.shields.io/badge/-codeigniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-jquery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-hapijs-informational?style=flat&logo=hapi.js&logoColor=white&color=2bbc8a) 
 <br> Databases : ![](https://img.shields.io/badge/-mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-mariadb-informational?style=flat&logo=mariadb&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-postgres-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
  <br> Devops : ![](https://img.shields.io/badge/-docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) 
-
-
-<a href="https://github.com/blessseeker/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessseeker&layout=compact)](https://github.com/blessseeker/github-readme-stats" />
-</a>
-<!--<a href="https://github.com/blessseeker/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blessseeker&show_icons=true&theme=onedark" />
-</a>-->
-<!--
-**blessseeker/blessseeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
