@@ -18,6 +18,3 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blessseeker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
