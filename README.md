@@ -1,12 +1,10 @@
 
- 
-<a href="https://www.codewars.com/users/blessseeker" target="_blank"><img src="https://www.codewars.com/users/blessseeker/badges/large" /></a>
-
-### Visit Me!
+ ### Visit Me!
 
 <ul>
  <li><a href="https://blessseeker.github.io" target="_blank">Portfolio Page</a></li>
  <li><a href="https://linkedin.com/in/kamaludin-khoir/" target="_blank">LinkedIn Profile</a></li>
+ <li><a href="[https://blessseeker.github.io](https://www.cloudskillsboost.google/public_profiles/1c2cc1a4-8665-437b-9ff6-51fcc7254262 )" target="_blank">Google Cloud Skill Boost</a></li>
 </ul>
 
 ### Side Projects
