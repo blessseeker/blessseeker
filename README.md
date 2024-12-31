@@ -10,7 +10,6 @@
 
 <ul>
  <li><a href="https://github.com/hiberin" target="_blank">Hiberin Digital</a></li>
- <li><a href="https://microx-indonesia.com" target="_blank">Micro X Indonesia</a></li>
 </ul>
 
 
